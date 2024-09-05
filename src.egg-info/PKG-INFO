@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Package for Book Recommender
+Home-page: https://github.com/Yashwant/Book Recommender
+Author: Yashwant
+Author-email: yashwantxdx@gmail.com
+Requires-Python: >=3.12.5
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+
+Hello
